@@ -5,3 +5,4 @@ SLOW MOTION IS BETTTER THAN NO MOTION , SOO LETS KEEP GOING NO MATTER WHAT.
 THIS IS THE LIFE A CHOOSE.
 
 April-1
+Need to finish the Uderika project this week.
