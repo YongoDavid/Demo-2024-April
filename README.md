@@ -7,3 +7,4 @@ THIS IS THE LIFE A CHOOSE.
 April-1
 Need to finish the Uderika project this week.
 i still need to either create an admin panel for the owner to view emails or create a logic to send email notifications to the owner.
+Then host the Server and do the final testing of the whole project.
