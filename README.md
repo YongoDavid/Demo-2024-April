@@ -11,3 +11,4 @@ Then host the Server and do the final testing of the whole project.
 And make sure the database is running as it should.
 
 April-2
+Form data is now pushing to server and server is sending and updating databse.
