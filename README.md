@@ -25,3 +25,4 @@ The Qwasar sillycon valley platform i am using is challenging but i will pull th
 I just need to make sure i keep going no matter what.
 
 IF I STOP I HAVE LOST AND IF A GIVE UP THATS THE WORST.
+STAY LOCKED IN DAVID YOU GOT THIS!
