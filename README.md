@@ -22,3 +22,4 @@ April-4
 Learning about , how to create an admin panel for (Uderika)
 Learnig to be a sofrware developer along side working on a web dev project isnt easy.
 The Qwasar sillycon valley platform i am using is challenging but i will pull through.
+I just need to make sure i keep going no matter what.
