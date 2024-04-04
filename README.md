@@ -20,3 +20,4 @@ Trying to host Server.
 
 April-4
 Learning about , how to create an admin panel for (Uderika)
+Learnig to be a sofrware developer along side working on a web dev project isnt easy.
