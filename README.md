@@ -28,4 +28,5 @@ IF I STOP I HAVE LOST AND IF A GIVE UP THATS THE WORST.
 STAY LOCKED IN DAVID YOU GOT THIS!
 
 April-5
-Still creating Admin panel for Uderiaka project.s
+Still creating Admin panel for Uderiaka project
+trying too test fetch api
