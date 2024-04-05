@@ -29,4 +29,6 @@ STAY LOCKED IN DAVID YOU GOT THIS!
 
 April-5
 Still creating Admin panel for Uderiaka project
-trying too test fetch api
+trying too test fetch api.
+But the json content is noot rendering to html page. ( idk why )
+
