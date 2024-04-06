@@ -35,3 +35,4 @@ I need too host uderika main server and try it, maybe it will work
 
 Alpril-6
 i havent really given the Uderika project time , this week.
+My focuse has been on Qwasar Uppwork , for software development
