@@ -34,3 +34,4 @@ But the json content is noot rendering to html page. ( idk why )
 I need too host uderika main server and try it, maybe it will work
 
 Alpril-6
+i havent really given the Uderika project time , this week.
