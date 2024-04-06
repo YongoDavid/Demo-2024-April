@@ -37,3 +37,4 @@ Alpril-6
 i havent really given the Uderika project time , this week.
 My focus has been on Qwasar Uppwork , for software development.
 But have built the structure of the admin panel for Uderika to be able to view all emails on the website.
+Now i have to host the server for Uderika project and Uderika Amdin to be able to Get and Post these emails properly.
