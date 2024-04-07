@@ -41,3 +41,4 @@ Now i have to host the server for Uderika project and Uderika Amdin to be able t
 I need to find out why server is hosting but not connecting to Mysql.
 
 April-7
+Still trying to figure out hosting my server
