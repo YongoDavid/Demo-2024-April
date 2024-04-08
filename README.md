@@ -46,3 +46,4 @@ i have used mongoDB now , it has hoosted with no errors on (cylic hosting ).
 But data is not sending from the client to the server
 
 April-8
+Testing Uderika Admin demo to get all emails and it is working well.
