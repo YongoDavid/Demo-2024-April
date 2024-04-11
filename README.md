@@ -58,3 +58,4 @@ Got a suggestion to try another alternative and that is what i am going to look 
 
 April-11
 Before i try anotheer alternative, i am just going to connect mySQL again and see if it will work.
+That is me swtiching now from MongoDB back to mySQL.
