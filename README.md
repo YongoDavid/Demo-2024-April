@@ -54,3 +54,4 @@ April-9
 sadly , i still haven been able to get my hosted server working and saving my data to MongoDB 
 
 April-10
+Got a suggestion to try another alternative and that is what i am going to look into.
