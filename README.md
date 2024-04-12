@@ -61,3 +61,4 @@ Before i try another alternative, i am just going to connect mySQL again and see
 That is me swtiching now from MongoDB back to mySQL.
 
 April-12
+Mysql connected , now its time to host the server again
