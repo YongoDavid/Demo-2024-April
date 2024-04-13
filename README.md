@@ -64,3 +64,5 @@ April-12
 Mysql connected , now its time to host the server again
 
 April-13
+i am going to read my code again from begining and try too resolve this issue ine by one.
+Till there is no more alternative but to use the test file then i will use the test file.
