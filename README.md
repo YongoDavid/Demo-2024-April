@@ -71,3 +71,4 @@ April-14
 Now i am going to try the next option and hopfully the final try at saving and displaying the emails
 
 April-15
+The emails are being collected and sent to the textfile
