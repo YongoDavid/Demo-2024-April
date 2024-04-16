@@ -75,4 +75,5 @@ The emails are being collected and sent to the textfile.
 Also the emails are saving as it should.
 
 April-16
-Sending emals to test file is now working
+Sending emals to test file is now working.
+and the emails can be viewd from the test file through the admin website.
