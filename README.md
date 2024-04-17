@@ -79,3 +79,4 @@ Sending emals to test file is now working.
 and the emails can be viewd from the test file through the admin website.
 
 April-17
+Everything , seems to be working now for the uderika project.
