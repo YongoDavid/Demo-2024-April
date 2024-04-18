@@ -85,3 +85,4 @@ Desktop screen , not complete yet.
 
 April-18
 New corrections for the Uderika project.
+The client is making me change things again , but its all part of the job.
