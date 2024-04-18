@@ -86,4 +86,5 @@ Desktop screen , not complete yet.
 April-18
 New corrections for the Uderika project.
 The client is making me change things again , but its all part of the job.
-The project is working as it shou;d , just few moore thing that need to be added to make the build better.
+The project is working as it should , just few more thing that need to be added to make the build better.
+Still waiting in some resources that will be sent to be by tomorrow by the client for me to continue.
