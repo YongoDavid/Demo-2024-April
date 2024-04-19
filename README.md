@@ -93,4 +93,4 @@ For now i am focusing more on Qawer silicon valley software course.
 April-19
 Working with C progtamming language.
 i must say , i dont really like C , because you have to almost do things yourself, Sadly.
-Iam trying to gain more knowledge on C and get use to its basics , aslo its syntac.
+Iam trying to gain more knowledge on C and get use to its basics , aslo its syntax.
