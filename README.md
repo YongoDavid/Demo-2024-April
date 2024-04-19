@@ -91,4 +91,4 @@ Still waiting in some resources that will be sent to be by tomorrow by the clien
 For now i am focusing more on Qawer silicon valley software course. 
 
 April-19
-
+Working with C progtamming language.
