@@ -97,3 +97,4 @@ Iam trying to gain more knowledge on C and get use to its basics , aslo its synt
 So crazy that we have to import soo many modules to be able to use particular things in C.
 
 April-20
+Another day to work on Qwaser.
