@@ -95,3 +95,5 @@ Working with C progtamming language.
 i must say , i dont really like C , because you have to almost do things yourself, Sadly.
 Iam trying to gain more knowledge on C and get use to its basics , aslo its syntax.
 So crazy that we have to import soo many modules to be able to use particular things in C.
+
+April-20
