@@ -101,3 +101,4 @@ Another day to work on Qwaser.
 i am still working with C programming language.
 
 April-21
+Sundays are my rest days , but let me get some work in , i didnt do much yesterday.
