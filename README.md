@@ -105,3 +105,4 @@ Sundays are my rest days , but let me get some work in , i didnt do much yesterd
 Still practing C language and Working on my Season1 C.
 
 April-22
+i am starting to understand C and the basics
