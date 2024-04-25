@@ -118,3 +118,4 @@ Other changes to the website are still in the process.
 
 April-25
 My daily dose has been a bit messed up lately.
+i have been moving slow , but slow motion is better than no motion.
