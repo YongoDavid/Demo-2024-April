@@ -2,7 +2,7 @@
 Demo-2024-April
 
 SLOW MOTION IS BETTTER THAN NO MOTION , SOO LETS KEEP GOING NO MATTER WHAT.
-THIS IS THE LIFE A CHOOSE.
+THIS IS THE LIFE I CHOOSE.
 
 April-1
 Need to finish the Uderika project this week.
@@ -117,3 +117,4 @@ New resources have been added to the website.
 Other changes to the website are still in the process.
 
 April-25
+My daily dose has been a bit messed up lately.
