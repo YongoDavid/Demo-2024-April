@@ -122,3 +122,5 @@ i have been moving slow , but slow motion is better than no motion.
 
 April-26
 its a new day , its another night dose , its goooo.
+
+April-27
