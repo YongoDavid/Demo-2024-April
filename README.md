@@ -130,4 +130,6 @@ i am working on optimizing uderika for laptop screen.
 April-28
 Desktop screen redesign going well for UUderika project.
 Render is still not working i dont know why , maybe it is uunder maintenance.
-I might have to host again on another platform so the client would be able to view
+I might have to host again on another platform so the client would be able to view.
+
+April-29
