@@ -135,3 +135,4 @@ I might have to host again on another platform so the client would be able to vi
 April-29
 Render hosting hasnt been opening for sometime now , so i have switched to using varcel instead.
 Vercel hosting is working well Client / Server are both working.
+Putting in some extra hours to round off the month solid and make up for or crazy this month has been.
