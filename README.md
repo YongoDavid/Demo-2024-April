@@ -133,4 +133,5 @@ Render is still not working i dont know why , maybe it is uunder maintenance.
 I might have to host again on another platform so the client would be able to view.
 
 April-29
-Render hosting hasnt been opening for sometime now , so i have switched to uusing varcel instead.
+Render hosting hasnt been opening for sometime now , so i have switched to using varcel instead.
+Vercel hosting is working well Client / Server are both working.
