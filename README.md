@@ -138,3 +138,5 @@ Vercel hosting is working well Client / Server are both working.
 Putting in some extra hours to round off the month solid and make up for or crazy this month has been.
 Hopefully i get to be done with the Uderika project this month.
 I have been on the project for 2 months now by the end oof this month.
+
+April-30
